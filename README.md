@@ -1,2 +1,2 @@
 # MERN_base
-notes - snippets - projects on MERN stack
+notes - snippets - projects on MERN stack.
